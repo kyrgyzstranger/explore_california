@@ -9,4 +9,6 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
-#question: would log/archive/access.log be ignored? no
+# question: would log/archive/access.log be ignored? no
+# https://help.github.com/articles/ignoring-files/
+# https://github.com/github/gitignore
